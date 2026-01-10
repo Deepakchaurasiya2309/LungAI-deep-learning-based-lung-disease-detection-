@@ -47,18 +47,6 @@ The system leverages a transfer learning approach using the ResNet-50 architectu
 
 The project aims to assist healthcare professionals by enabling rapid, reliable, and interpretable lung disease diagnosis.
 
----
-
-## 👥 Team Name
-**Neural Rookies**
----
-
-## 👨‍💻 Team Members & Contributions
-- **Ansh Kumar** – Group Lead, project planning and coordination  
-- **Deepak Chaurasiya** And - **Anshul Kundu** – Code development, model implementation, experimentation, and performance evaluation  
-- **Bidisha Kundu** – Analysis support, documentation, and overall project assistance  
-
----
 
 ## 🧠 Methodology
 - Transfer learning using **ResNet-50** as the base CNN architecture  
