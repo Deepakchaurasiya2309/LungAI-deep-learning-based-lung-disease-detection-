@@ -1,7 +1,44 @@
-# LungAI-deep-learning-based-lung-disease-detection-
-Deep learning–based lung disease detection system using ResNet-50 on chest X-ray images (COVID-19, Normal, Pneumonia, Tuberculosis).
-# LungAI: Deep Learning-Based Lung Disease Detection Using ResNet-50
+<div style="text-align:center; margin-top:20px;">
+  <h1 style="font-size:32px; font-weight:bold; color:#2c3e50;">
+    LungAI: Deep Learning-Based Lung Disease Detection Using ResNet-50
+  </h1>
+  <p style="font-size:18px; color:#555;">
+    A Group Project by <strong>Neural Rookies</strong>
+  </p>
+</div>
 
+<hr style="border:1px solid #e0e0e0; width:80%;">
+<h2 style="color:#1f6feb;">👥 Team Name</h2>
+<p style="font-size:18px;">
+  <strong>Neural Rookies</strong>
+</p>
+<hr>
+
+<h2 style="color:#1f6feb; display:flex; align-items:center; gap:10px;">
+  👨‍💻 Team Members & Contributions
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="Coding Animation" 
+    width="40"
+  >
+</h2>
+
+<ul style="list-style-type:none; padding-left:0; font-size:16px;">
+
+  <li style="margin-bottom:10px;">
+    <strong>Ansh Kumar</strong> — Group Lead, project planning and coordination
+  </li>
+
+  <li style="margin-bottom:10px;">
+    <strong>Deepak Chaurasiya</strong> &amp; <strong>Anshul Kundu</strong> — 
+    Code development, model implementation, experimentation, and performance evaluation
+  </li>
+
+  <li style="margin-bottom:10px;">
+    <strong>Bidisha Kundu</strong> — Analysis support, documentation, and overall project assistance
+  </li>
+
+</ul>
 ## 📌 Overview
 
 LungAI is a deep learning–based medical imaging system designed to detect multiple lung diseases from chest X-ray images.
@@ -18,7 +55,7 @@ The project aims to assist healthcare professionals by enabling rapid, reliable,
 
 ## 👨‍💻 Team Members & Contributions
 - **Ansh Kumar** – Group Lead, project planning and coordination  
-- **Deepak Chaurasiya** And - **Anshul Kindu** – Code development, model implementation, experimentation, and performance evaluation  
+- **Deepak Chaurasiya** And - **Anshul Kundu** – Code development, model implementation, experimentation, and performance evaluation  
 - **Bidisha Kundu** – Analysis support, documentation, and overall project assistance  
 
 ---
