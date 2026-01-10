@@ -23,14 +23,14 @@
   >
 </h2>
 
-<ul style="list-style-type:none; padding-left:0; font-size:16px;">
+<ul style="list-style-type:none; padding-left:0; font-size:20px;">
 
   <li style="margin-bottom:10px;">
     <strong>Ansh Kumar</strong> — Group Lead, project planning and coordination
   </li>
 
   <li style="margin-bottom:10px;">
-    <strong>Deepak Chaurasiya</strong> &amp; <strong>Anshul Kundu</strong> — 
+    <strong>Deepak Chaurasiya</strong> &amp; <strong>Anushil Kundu</strong> — 
     Code development, model implementation, experimentation, and performance evaluation
   </li>
 
